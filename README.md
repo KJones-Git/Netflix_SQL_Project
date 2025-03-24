@@ -78,6 +78,11 @@ Each of the following problems is solved using efficient and optimized PostgreSQ
 - **Language:** SQL
 - **Data Source:** [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
+To replicate this analysis:
+
+1. Clone the repository  
+   ```bash
+   https://github.com/KJones-Git/Netflix_SQL_Project.git
 ---
 
 ### 🖋 Author: Kyle Jones
